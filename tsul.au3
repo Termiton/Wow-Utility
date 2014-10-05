@@ -8,7 +8,7 @@ $Form1 = GUICreate("Voulez vous supprimer les logs?", 421, 166, 307, 211)
 $suppr = GUICtrlCreateButton("Supprimer", 264, 120, 67, 33)
 $cancel = GUICtrlCreateButton("Annuler", 344, 120, 67, 33)
 $config = GUICtrlCreateButton("Config.", 344, 8, 67, 25, $WS_GROUP)
-$Pic1 = GUICtrlCreatePic("E:\Boulot\BENEVOLE\UFROG\supp combatlog\ufrog.JPG", -16, -8, 436, 172, BitOR($SS_NOTIFY,$WS_GROUP,$WS_CLIPSIBLINGS))
+$Pic1 = GUICtrlCreatePic("background.jpg", -16, -8, 436, 172, BitOR($SS_NOTIFY,$WS_GROUP,$WS_CLIPSIBLINGS))
 GUISetState(@SW_SHOW)
 #EndRegion ### END Koda GUI section ###
 
