@@ -11,7 +11,7 @@ $tsIn = GUICtrlCreateInput("C:\Program Files\TS3\ts3client_win64.exe", 120, 8, 4
 $wowIn = GUICtrlCreateInput("D:\World of Warcraft\Logs\WoWCombatLog.txt", 120, 40, 465, 21)
 $Label1 = GUICtrlCreateLabel("Chemin d'accès TS : ", 8, 8, 105, 25)
 $Label2 = GUICtrlCreateLabel("Chemin d'accès Log :", 8, 40, 106, 25)
-$Pic1 = GUICtrlCreatePic("E:\Boulot\BENEVOLE\UFROG\supp combatlog\ufrog.JPG", -16, -8, 604, 172, BitOR($SS_NOTIFY,$WS_GROUP,$WS_CLIPSIBLINGS))
+$Pic1 = GUICtrlCreatePic("background.jpg", -16, -8, 604, 172, BitOR($SS_NOTIFY,$WS_GROUP,$WS_CLIPSIBLINGS))
 GUISetState(@SW_SHOW)
 #EndRegion ### END Koda GUI section ###
 
