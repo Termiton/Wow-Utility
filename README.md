@@ -1,2 +1,5 @@
-wow.app.ufrog
+Wow utility
 =============
+
+Start and Stop wow logs
+Start Teamspeak
