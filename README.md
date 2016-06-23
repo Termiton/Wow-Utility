@@ -1,5 +1,5 @@
 Wow utility
 =============
 
-Start and Stop wow logs
+Start and Stop wow logs<br>
 Start Teamspeak
